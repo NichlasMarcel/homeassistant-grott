@@ -1619,7 +1619,7 @@ SENSORS = [
     "icon": "mdi:home-import-outline",
     "func": lambda js: js['values']["AC_InWatt"],
     "divider": 10,
-    "unique_name": "mqtt_136",
+    "unique_name": "mqtt_150",
   }
 
 
